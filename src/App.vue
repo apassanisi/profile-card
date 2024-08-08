@@ -1,6 +1,6 @@
 <template>
   <div
-    class="font-body w-screen h-screen flex flex-col items-center bg-gradient-to-b from-gray-50 to-[#d2d6db] py-[120px]"
+    class="font-body w-screen h-screen flex flex-col items-center bg-gradient-to-b from-gray-50 to-[#d2d6db] py-[200px]"
   >
     <div class="max-w-[340px] shadow bg-white rounded-lg px-4 py-8">
       <div class="flex flex-col items-center justify-center gap-6 text-center">
